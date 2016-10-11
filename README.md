@@ -1,0 +1,2 @@
+# ffcoin
+fantansy football coin
